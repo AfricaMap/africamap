@@ -1,0 +1,3 @@
+include africamap/config/deployment.ini_tmpl
+recursive-include africamap/public *
+recursive-include africamap/templates *
